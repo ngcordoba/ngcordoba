@@ -17,4 +17,4 @@ Functional Analyst and Front End Developer
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React" /></a>
 
 ### Social Networks
-<a href="https://www. linkedin.com/in/ngabrielcordoba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin. svg" ancho="32" altura="32" />
+<a href="https://www.linkedin.com/in/ngabrielcordoba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" ancho="32" altura="32" />
