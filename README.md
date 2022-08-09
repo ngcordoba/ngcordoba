@@ -3,7 +3,6 @@ Hi 👋 My name is Gabriel Cordoba
 
 Functional Analyst and Web Developer
 ------------------------------------
-
 *   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [gabrielncordoba@gmail.com](mailto:gabrielncordoba@gmail.com)
 *   🧠  I'm learning ReactJS Web and React Native### Skills<p align="left">
