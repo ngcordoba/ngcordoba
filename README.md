@@ -1,13 +1,13 @@
-Hola 👋🏻 Mi nombre es Gabriel Córdoba
+Hi! 👋🏻 My name is Gabriel Cordoba
 ====================================
 
-Analista Funcional y Desarrollador Front End
+Functional Analyst and Front End Developer
 --------------------------------------
 
-* 🌍 Vivo en Argentina
-* ✉️ Puedes contactarme en [gabrielncordoba@gmail.com](mailto:gabrielncordoba@gmail.com)[](mailto:gabrielncordoba@gmail.com)
-* 🧠 Actualmente me encuentro aprendiendo ReactJS/Native, desarrollando proyectos para mi porfolio personal.
-* ✨ Me gusta investigar y aprender sobre cosas nuevas
+* 🌍 I live in Argentina
+* ✉️ You can contact me at [gabrielncordoba@gmail.com](mailto:gabrielncordoba@gmail.com)[](mailto:gabrielncordoba@gmail.com)
+* 🧠 I am currently learning ReactJS/Native, developing projects to improve my skills.
+* ✨ I love to investigate and learn about new things and i enjoy going to the River Plate Stadium 🐔
 
 
 ### Lenguages 
