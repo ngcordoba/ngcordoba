@@ -1,4 +1,4 @@
-Hi! 👋🏻 My name is Gabriel Cordoba
+Hi! 👋🏻 I'm Gabo
 ====================================
 
 Functional Analyst and Front End Developer
