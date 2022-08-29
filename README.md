@@ -5,8 +5,8 @@ Functional Analyst and Front End Developer
 --------------------------------------
 
 * 🌍 I live in Argentina.
-* 🔭 I am currently working as a functional analyst.
-* 🧠 I am currently learning ReactJS/Native, developing projects to improve my skills.
+* 🔭 I’m currently working as a functional analyst.
+* 🧠 I’m currently learning ReactJS/Native, developing projects to improve my skills.
 * ✨ I love to investigate and learn about new things and i enjoy going to the River Plate Stadium 🐔
 * ✉️ You can contact me at [gabrielncordoba@gmail.com](mailto:gabrielncordoba@gmail.com)[](mailto:gabrielncordoba@gmail.com)
 
