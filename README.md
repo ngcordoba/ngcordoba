@@ -4,11 +4,11 @@ Hi! 👋🏻 I'm Gabo
 Functional Analyst and Front End Developer
 --------------------------------------
 
-* 🌍 I live in Argentina.
-* 🔭 I’m currently working as a functional analyst.
-* 🧠 I’m currently learning ReactJS/Native, developing projects to improve my skills.
-* ✨ I love to investigate and learn about new things.
-* ✉️ You can contact me at [gabrielncordoba@gmail.com](mailto:gabrielncordoba@gmail.com)[](mailto:gabrielncordoba@gmail.com)
+* 🌍  I live in Argentina.
+* 🔭  I’m currently working as a functional analyst.
+* 🧠  I’m currently learning ReactJS/Native, developing projects to improve my skills.
+* ✨  I love to investigate and learn about new things.
+* ✉️  You can contact me at [gabrielncordoba@gmail.com](mailto:gabrielncordoba@gmail.com)[](mailto:gabrielncordoba@gmail.com)
 
 
 ### Lenguages and Tools
