@@ -4,10 +4,8 @@ Hi! 👋🏻 I'm Gabo
 Functional Analyst 
 --------------------------------------
 
-* 🌍  I live in Argentina.
-* 🔭  I’m currently working as a functional analyst.
-* 🧠  I’m currently learning ReactJS/Native, developing projects to improve my skills.
-* ✨  I’m interested in app and web development and blockchain 
+* 🌍  Argentina.
+* 🧠  I’m currently learning ReactJS/Native, developing projects to improve my skills and I’m interested in app and web development and blockchain 
 * ✉️  You can contact me at [gabrielncordoba@gmail.com](mailto:gabrielncordoba@gmail.com)[](mailto:gabrielncordoba@gmail.com)
 
 
