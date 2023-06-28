@@ -17,3 +17,5 @@ Functional Analyst
 
 ### Social Networks
 <a href="https://www.linkedin.com/in/ngabrielcordoba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabriel )  
