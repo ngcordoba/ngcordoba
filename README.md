@@ -1,4 +1,4 @@
-Hi! 👋🏻 I'm Gabo
+Hi! 👋🏻 I'm Gabriel
 ====================================
 
 Functional Analyst 
