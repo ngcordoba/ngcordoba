@@ -1,11 +1,7 @@
 Hi! 👋🏻 I'm Gabriel
 ====================================
 
-Functional Analyst 
---------------------------------------
-
 * 🌍  Argentina.
-* 🧠  I am currently learning ReactJS/Native, while working on the final project of my degree. My area of ​​interest is Front end development, mainly mobile applications.
 * ✉️  You can contact me at [gabrielncordoba@gmail.com](mailto:gabrielncordoba@gmail.com)[](mailto:gabrielncordoba@gmail.com)
 
 
